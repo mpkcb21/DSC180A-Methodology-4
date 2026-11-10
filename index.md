@@ -1,6 +1,9 @@
 **Name:** Madhav Pudukottai Krishnaraj
+
 **Email:** mpudukottaikrishnara@ucsd.edu
+
 **Section:** D02
+
 **Mentor:** Aobo Li
 
 **What is the most interesting topic covered in your domain this quarter?**
